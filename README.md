@@ -1,5 +1,11 @@
 # meishihaichi
 
+
+![image](https://github.com/JaneMayan/meishihaichi/blob/master/image/画板%201.png)
+![image](https://github.com/JaneMayan/meishihaichi/blob/master/image/画板%202.png)
+![image](https://github.com/JaneMayan/meishihaichi/blob/master/image/画板%203.png)
+![image](https://github.com/JaneMayan/meishihaichi/blob/master/image/画板%204.png)
+
 if you have any question, please contact me with no hesitate
 
 
